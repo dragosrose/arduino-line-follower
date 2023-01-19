@@ -4,7 +4,7 @@ The line follower robot is built using an Arduino microcontroller and the QTRSen
 
 ## Team Members
 
-* Andrei Gatej
+* [Andrei Gatej](https://github.com/Andrei0872)
 * [Dragos Trandafir](https://github.com/nomoney34)
 
 ## Task Requirements
