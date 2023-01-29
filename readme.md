@@ -4,6 +4,7 @@ The line follower robot is built using an Arduino microcontroller and the QTRSen
 
 ## Team Members
 
+### PascalTeam:
 * [Andrei Gatej](https://github.com/Andrei0872)
 * [Dragos Trandafir](https://github.com/nomoney34)
 
@@ -14,6 +15,11 @@ The line follower robot was built with the following requirements in mind:
 - A kit that contains the necessary pieces to construct the line follower
 - The robot must be calibrated before starting to follow the line
 - The robot should move at a fast speed
+
+## Context
+
+This project was done at the Faculty of Mathematics and Informatics as part of the Introduction to Robotics 2022-2023 course. The objective of the project was to build a robot that could complete the course in under 20 seconds. Our team was able to complete the course in 24.6 seconds.
+
 
 ## The Line Follower in Action
 
